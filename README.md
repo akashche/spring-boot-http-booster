@@ -29,7 +29,7 @@ Run results:
 
 Note: memory usage was recorded using [memlog_agent](https://github.com/akashche/memlog_agent).
 
-#### No arguments
+## No arguments
 
 Data file: [memlog_default.json](https://github.com/akashche/spring-boot-http-booster/blob/master/resources/memlog_default.json)
 
@@ -38,7 +38,7 @@ Number of full GC runs: 10
 ![memlog_default.png](https://raw.githubusercontent.com/akashche/spring-boot-http-booster/master/resources/memlog_default.png)
 
 
-#### Client JIT compiler
+## Client JIT compiler
 
 Arguments: `-XX:+TieredCompilation -XX:TieredStopAtLevel=1`
 
@@ -49,7 +49,7 @@ Number of full GC runs: 9
 ![memlog_c1.png](https://raw.githubusercontent.com/akashche/spring-boot-http-booster/master/resources/memlog_c1.png)
 
 
-#### Client JIT compiler and Serial garbage collector
+## Client JIT compiler and Serial garbage collector
 
 Arguments: `-XX:+UseSerialGC -XX:+TieredCompilation -XX:TieredStopAtLevel=1`
 
@@ -60,7 +60,7 @@ Number of full GC runs: 20
 ![memlog_c1_serialgc.png](https://raw.githubusercontent.com/akashche/spring-boot-http-booster/master/resources/memlog_c1_serialgc.png)
 
 
-#### Client JIT compiler and Serial garbage collector, 128 MB RAM cap
+## Client JIT compiler and Serial garbage collector, 128 MB RAM cap
 
 Arguments: `-XX:MaxRAM=128M -XX:+UseSerialGC -XX:+TieredCompilation -XX:TieredStopAtLevel=1`
 
@@ -71,7 +71,7 @@ Number of full GC runs: 102
 ![memlog_c1_serialgc_128m.png](https://raw.githubusercontent.com/akashche/spring-boot-http-booster/master/resources/memlog_c1_serialgc_128m.png)
 
 
-#### Client JIT compiler and Serial garbage collector, 96 MB RAM cap
+## Client JIT compiler and Serial garbage collector, 96 MB RAM cap
 
 Arguments: `-XX:MaxRAM=96M -XX:+UseSerialGC -XX:+TieredCompilation -XX:TieredStopAtLevel=1`
 
@@ -82,7 +82,7 @@ Number of full GC runs: 102
 ![memlog_c1_serialgc_96m.png](https://raw.githubusercontent.com/akashche/spring-boot-http-booster/master/resources/memlog_c1_serialgc_96m.png)
 
 
-#### Client JIT compiler and Serial garbage collector, 64 MB RAM cap
+## Client JIT compiler and Serial garbage collector, 64 MB RAM cap
 
 Arguments: `-XX:MaxRAM=64M -XX:+UseSerialGC -XX:+TieredCompilation -XX:TieredStopAtLevel=1`
 
