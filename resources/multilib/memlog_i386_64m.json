@@ -1,0 +1,444 @@
+[
+{
+    "currentTimeMillis": 1495656795781,
+    "gcEventsCount": 0,
+    "os": {
+        "overall": 17838080,
+        "VmPeak": 3990069248,
+        "VmSize": 337690624,
+        "VmLck": 0,
+        "VmPin": 0,
+        "VmHWM": 17838080,
+        "VmRSS": 17838080,
+        "VmData": 317136896,
+        "VmStk": 139264,
+        "VmExe": 4096,
+        "VmLib": 16236544,
+        "VmPTE": 106496,
+        "VmSwap": 0
+    },
+    "jvm": {
+        "overall": 10706944,
+        "heap": {
+            "committed": 6094848,
+            "init": 6291456,
+            "max": 32440320,
+            "used": 306264
+        },
+        "nonHeap": {
+            "committed": 4612096,
+            "init": 2359296,
+            "max": -1,
+            "used": 1716840
+        }
+    }
+},
+{
+    "currentTimeMillis": 1495656796782,
+    "gcEventsCount": 28,
+    "os": {
+        "overall": 40161280,
+        "VmPeak": 3990069248,
+        "VmSize": 383569920,
+        "VmLck": 0,
+        "VmPin": 0,
+        "VmHWM": 40161280,
+        "VmRSS": 40161280,
+        "VmData": 359567360,
+        "VmStk": 139264,
+        "VmExe": 4096,
+        "VmLib": 16326656,
+        "VmPTE": 151552,
+        "VmSwap": 0
+    },
+    "jvm": {
+        "overall": 15687680,
+        "heap": {
+            "committed": 6094848,
+            "init": 6291456,
+            "max": 32440320,
+            "used": 4993560
+        },
+        "nonHeap": {
+            "committed": 9592832,
+            "init": 2359296,
+            "max": -1,
+            "used": 8759104
+        }
+    }
+},
+{
+    "currentTimeMillis": 1495656797783,
+    "gcEventsCount": 57,
+    "os": {
+        "overall": 63959040,
+        "VmPeak": 3990069248,
+        "VmSize": 395579392,
+        "VmLck": 0,
+        "VmPin": 0,
+        "VmHWM": 63959040,
+        "VmRSS": 63959040,
+        "VmData": 371433472,
+        "VmStk": 139264,
+        "VmExe": 4096,
+        "VmLib": 16433152,
+        "VmPTE": 204800,
+        "VmSwap": 0
+    },
+    "jvm": {
+        "overall": 36372480,
+        "heap": {
+            "committed": 19734528,
+            "init": 6291456,
+            "max": 32440320,
+            "used": 14954576
+        },
+        "nonHeap": {
+            "committed": 16637952,
+            "init": 2359296,
+            "max": -1,
+            "used": 16483952
+        }
+    }
+},
+{
+    "currentTimeMillis": 1495656798783,
+    "gcEventsCount": 80,
+    "os": {
+        "overall": 74076160,
+        "VmPeak": 3990069248,
+        "VmSize": 400822272,
+        "VmLck": 0,
+        "VmPin": 0,
+        "VmHWM": 74076160,
+        "VmRSS": 74076160,
+        "VmData": 376676352,
+        "VmStk": 139264,
+        "VmExe": 4096,
+        "VmLib": 16433152,
+        "VmPTE": 221184,
+        "VmSwap": 0
+    },
+    "jvm": {
+        "overall": 39682048,
+        "heap": {
+            "committed": 19734528,
+            "init": 6291456,
+            "max": 32440320,
+            "used": 17718744
+        },
+        "nonHeap": {
+            "committed": 19947520,
+            "init": 2359296,
+            "max": -1,
+            "used": 19662032
+        }
+    }
+},
+{
+    "currentTimeMillis": 1495656799784,
+    "gcEventsCount": 89,
+    "os": {
+        "overall": 82743296,
+        "VmPeak": 3990069248,
+        "VmSize": 405114880,
+        "VmLck": 0,
+        "VmPin": 0,
+        "VmHWM": 82743296,
+        "VmRSS": 82743296,
+        "VmData": 380870656,
+        "VmStk": 139264,
+        "VmExe": 4096,
+        "VmLib": 16433152,
+        "VmPTE": 233472,
+        "VmSwap": 0
+    },
+    "jvm": {
+        "overall": 54079488,
+        "heap": {
+            "committed": 30789632,
+            "init": 6291456,
+            "max": 32440320,
+            "used": 14715896
+        },
+        "nonHeap": {
+            "committed": 23289856,
+            "init": 2359296,
+            "max": -1,
+            "used": 23031272
+        }
+    }
+},
+{
+    "currentTimeMillis": 1495656800785,
+    "gcEventsCount": 99,
+    "os": {
+        "overall": 90075136,
+        "VmPeak": 3990069248,
+        "VmSize": 408711168,
+        "VmLck": 0,
+        "VmPin": 0,
+        "VmHWM": 90075136,
+        "VmRSS": 90075136,
+        "VmData": 384262144,
+        "VmStk": 139264,
+        "VmExe": 4096,
+        "VmLib": 16609280,
+        "VmPTE": 258048,
+        "VmSwap": 0
+    },
+    "jvm": {
+        "overall": 57094144,
+        "heap": {
+            "committed": 30789632,
+            "init": 6291456,
+            "max": 32440320,
+            "used": 25382768
+        },
+        "nonHeap": {
+            "committed": 26304512,
+            "init": 2359296,
+            "max": -1,
+            "used": 25931392
+        }
+    }
+},
+{
+    "currentTimeMillis": 1495656801785,
+    "gcEventsCount": 106,
+    "os": {
+        "overall": 98201600,
+        "VmPeak": 3990069248,
+        "VmSize": 411856896,
+        "VmLck": 0,
+        "VmPin": 0,
+        "VmHWM": 98201600,
+        "VmRSS": 98201600,
+        "VmData": 387407872,
+        "VmStk": 139264,
+        "VmExe": 4096,
+        "VmLib": 16609280,
+        "VmPTE": 274432,
+        "VmSwap": 0
+    },
+    "jvm": {
+        "overall": 60514304,
+        "heap": {
+            "committed": 32440320,
+            "init": 6291456,
+            "max": 32440320,
+            "used": 22351440
+        },
+        "nonHeap": {
+            "committed": 28073984,
+            "init": 2359296,
+            "max": -1,
+            "used": 27634208
+        }
+    }
+},
+{
+    "currentTimeMillis": 1495656802872,
+    "gcEventsCount": 111,
+    "os": {
+        "overall": 99123200,
+        "VmPeak": 3990069248,
+        "VmSize": 411856896,
+        "VmLck": 0,
+        "VmPin": 0,
+        "VmHWM": 99123200,
+        "VmRSS": 99123200,
+        "VmData": 387407872,
+        "VmStk": 139264,
+        "VmExe": 4096,
+        "VmLib": 16609280,
+        "VmPTE": 274432,
+        "VmSwap": 0
+    },
+    "jvm": {
+        "overall": 61104128,
+        "heap": {
+            "committed": 32440320,
+            "init": 6291456,
+            "max": 32440320,
+            "used": 22795248
+        },
+        "nonHeap": {
+            "committed": 28663808,
+            "init": 2359296,
+            "max": -1,
+            "used": 28200576
+        }
+    }
+},
+{
+    "currentTimeMillis": 1495656803929,
+    "gcEventsCount": 116,
+    "os": {
+        "overall": 100691968,
+        "VmPeak": 3990069248,
+        "VmSize": 414564352,
+        "VmLck": 0,
+        "VmPin": 0,
+        "VmHWM": 100691968,
+        "VmRSS": 100691968,
+        "VmData": 390115328,
+        "VmStk": 139264,
+        "VmExe": 4096,
+        "VmLib": 16609280,
+        "VmPTE": 278528,
+        "VmSwap": 0
+    },
+    "jvm": {
+        "overall": 62185472,
+        "heap": {
+            "committed": 32440320,
+            "init": 6291456,
+            "max": 32440320,
+            "used": 22759096
+        },
+        "nonHeap": {
+            "committed": 29745152,
+            "init": 2359296,
+            "max": -1,
+            "used": 29387640
+        }
+    }
+},
+{
+    "currentTimeMillis": 1495656804930,
+    "gcEventsCount": 121,
+    "os": {
+        "overall": 105189376,
+        "VmPeak": 3990069248,
+        "VmSize": 417710080,
+        "VmLck": 0,
+        "VmPin": 0,
+        "VmHWM": 105189376,
+        "VmRSS": 105189376,
+        "VmData": 393261056,
+        "VmStk": 139264,
+        "VmExe": 4096,
+        "VmLib": 16609280,
+        "VmPTE": 290816,
+        "VmSwap": 0
+    },
+    "jvm": {
+        "overall": 65429504,
+        "heap": {
+            "committed": 32440320,
+            "init": 6291456,
+            "max": 32440320,
+            "used": 24571808
+        },
+        "nonHeap": {
+            "committed": 32989184,
+            "init": 2359296,
+            "max": -1,
+            "used": 32470144
+        }
+    }
+},
+{
+    "currentTimeMillis": 1495656806048,
+    "gcEventsCount": 125,
+    "os": {
+        "overall": 106684416,
+        "VmPeak": 3990069248,
+        "VmSize": 419225600,
+        "VmLck": 0,
+        "VmPin": 0,
+        "VmHWM": 106684416,
+        "VmRSS": 106684416,
+        "VmData": 394776576,
+        "VmStk": 139264,
+        "VmExe": 4096,
+        "VmLib": 16609280,
+        "VmPTE": 294912,
+        "VmSwap": 0
+    },
+    "jvm": {
+        "overall": 67002368,
+        "heap": {
+            "committed": 32440320,
+            "init": 6291456,
+            "max": 32440320,
+            "used": 25100040
+        },
+        "nonHeap": {
+            "committed": 34562048,
+            "init": 2359296,
+            "max": -1,
+            "used": 33886584
+        }
+    }
+},
+{
+    "currentTimeMillis": 1495656807205,
+    "gcEventsCount": 129,
+    "os": {
+        "overall": 107937792,
+        "VmPeak": 3990069248,
+        "VmSize": 421322752,
+        "VmLck": 0,
+        "VmPin": 0,
+        "VmHWM": 107937792,
+        "VmRSS": 107937792,
+        "VmData": 396873728,
+        "VmStk": 139264,
+        "VmExe": 4096,
+        "VmLib": 16609280,
+        "VmPTE": 299008,
+        "VmSwap": 0
+    },
+    "jvm": {
+        "overall": 67952640,
+        "heap": {
+            "committed": 32440320,
+            "init": 6291456,
+            "max": 32440320,
+            "used": 26621792
+        },
+        "nonHeap": {
+            "committed": 35512320,
+            "init": 2359296,
+            "max": -1,
+            "used": 34876896
+        }
+    }
+},
+{
+    "currentTimeMillis": 1495656808338,
+    "gcEventsCount": 134,
+    "os": {
+        "overall": 110370816,
+        "VmPeak": 3990069248,
+        "VmSize": 422371328,
+        "VmLck": 0,
+        "VmPin": 0,
+        "VmHWM": 110370816,
+        "VmRSS": 110370816,
+        "VmData": 397922304,
+        "VmStk": 139264,
+        "VmExe": 4096,
+        "VmLib": 16609280,
+        "VmPTE": 299008,
+        "VmSwap": 0
+    },
+    "jvm": {
+        "overall": 69591040,
+        "heap": {
+            "committed": 32440320,
+            "init": 6291456,
+            "max": 32440320,
+            "used": 27856048
+        },
+        "nonHeap": {
+            "committed": 37150720,
+            "init": 2359296,
+            "max": -1,
+            "used": 36475240
+        }
+    }
+}
+]
