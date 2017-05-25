@@ -6,10 +6,12 @@ Native Memory Tracking results
 #### JVM arguments:
 
 ```
--XX:MaxRAM=(64|96)M -XX:+UseSerialGC -XX:+TieredCompilation -XX:TieredStopAtLevel=1 -XX:NativeMemoryTracking=detail -XX:+UnlockDiagnosticVMOptions -XX:+PrintNMTStatistics
+-XX:MaxRAM=(64|96)M -XX:+UseSerialGC -XX:+TieredCompilation -XX:TieredStopAtLevel=1 \
+-XX:NativeMemoryTracking=detail -XX:+UnlockDiagnosticVMOptions -XX:+PrintNMTStatistics
 ```
 
-#### 64-bit JVM, -XX:MaxRAM=96M
+
+## 64-bit JVM, -XX:MaxRAM=96M
 
 Details: [nmt_detail_amd64_96m.txt](https://github.com/akashche/spring-boot-http-booster/blob/master/resources/multilib/nmt/nmt_detail_amd64_96m.txt).
 
@@ -52,7 +54,7 @@ Total: reserved=1421559KB, committed=138063KB
 ```
 
 
-#### 64-bit JVM, -XX:MaxRAM=64M
+## 64-bit JVM, -XX:MaxRAM=64M
 
 Details: [nmt_detail_amd64_64m.txt](https://github.com/akashche/spring-boot-http-booster/blob/master/resources/multilib/nmt/nmt_detail_amd64_64m.txt).
 
@@ -95,7 +97,7 @@ Total: reserved=1405637KB, committed=121625KB
 ```
 
 
-#### 32-bit JVM, -XX:MaxRAM=96M
+## 32-bit JVM, -XX:MaxRAM=96M
 
 Details: [nmt_detail_i386_96m.txt](https://github.com/akashche/spring-boot-http-booster/blob/master/resources/multilib/nmt/nmt_detail_i386_96m.txt).
 
@@ -140,7 +142,7 @@ Total: reserved=349826KB, committed=106914KB
 ```
 
 
-#### 32-bit JVM, -XX:MaxRAM=64M
+## 32-bit JVM, -XX:MaxRAM=64M
 
 Details: [nmt_detail_i386_64m.txt](https://github.com/akashche/spring-boot-http-booster/blob/master/resources/multilib/nmt/nmt_detail_i386_64m.txt).
 
