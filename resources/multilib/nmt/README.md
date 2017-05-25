@@ -1,9 +1,7 @@
 Native Memory Tracking results
 ------------------------------
 
-[NMT](https://docs.oracle.com/javase/8/docs/technotes/guides/troubleshoot/tooldescr007.html) output was collected using the same [multilib environment](https://github.com/akashche/spring-boot-http-booster/blob/master/resources/multilib/README.md#environment).
-
-#### JVM arguments:
+[NMT](https://docs.oracle.com/javase/8/docs/technotes/guides/troubleshoot/tooldescr007.html) output was collected using the same [multilib environment](https://github.com/akashche/spring-boot-http-booster/blob/master/resources/multilib/README.md#environment) with the following arguments:
 
 ```
 -XX:MaxRAM=(64|96)M -XX:+UseSerialGC -XX:+TieredCompilation -XX:TieredStopAtLevel=1 \
